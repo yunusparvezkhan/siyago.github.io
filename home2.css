@@ -137,6 +137,7 @@ input{
   box-sizing: .5s
 }
 input[type="search"]
+
 {
   background: #fff;
   width: 300px;
